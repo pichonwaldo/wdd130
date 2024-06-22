@@ -33,13 +33,14 @@ aside {
     color: #333;
     text-align: center;
 } 
-asie img {
+aside img {
     width: 200px;
     height: auto'
 }
 main img {
     width: 150px;
-    height: auto
+    height: auto;
+    ...
 }
 p { padding: 0;}
 footer {
